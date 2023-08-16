@@ -1,8 +1,23 @@
-# PengalamanBelajar-Bangkit
-this repo is the space i put my learning within Bangkit Academy Program
+# PengalamanBelajar
+
+Repository Ini Berisi Pengalaman Belajar di Dicoding
 
 
-16 August 2023
-Learning how to documenting learning experience in Github: (progress 38%)
-- learning why documenting learning experience is important
-- learning documenting learning experience in Github
+**14 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+
+  * Belajar tentang apa itu Java dan alasan menggunakannya.
+
+  * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
+
+
+**15 Juni 2021**  
+
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
+
+  * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
+
+  * Belajar control flow dalam Java, seperti perulangan dan percabangan.
+
+  * Belajar tipe data koleksi, seperti list, set, dan map.
